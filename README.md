@@ -17,7 +17,7 @@ TextUtils is a web application built with React, developed while learning from C
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/PraneethReddy15/TextUtils/blob/main/Screenshot.png)
+![Screenshot 1](https://github.com/PraneethReddy15/TextUtils/blob/main/Screenshot%20.png)
 
 ## Usage
 
